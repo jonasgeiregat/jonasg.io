@@ -1,0 +1,73 @@
+baseURL: ''
+languageCode: en-us'
+title: 'Jonas G.'
+theme: 'PaperMod'
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives/
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: true
+  # comments: false
+  images: ["papermod-cover.png"]
+
+  homeInfoParams:
+    Title: Welcome to my blog
+    Content: >
+      - I'm Jonas a software engineer located in **Belgium** 
+      
+      - Currently working as an independent consultant specializing in all things
+      
+      - > - Java / Typescript / Go
+      
+      - > - event driven systems / microservices / distributed systems
+      
+      - > - Kafka / k8s
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+defaultTheme: auto # dark, light
