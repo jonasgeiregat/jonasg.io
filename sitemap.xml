@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.jonasg.io/tags/css/</loc>
+    <loc>https://www.jonasg.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.jonasg.io/tags/html/</loc>
+    <loc>https://www.jonasg.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.jonasg.io/</loc>
+    <loc>https://www.jonasg.io/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.jonasg.io/tags/markdown/</loc>
+    <loc>https://www.jonasg.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.jonasg.io/posts/my-first-post/</loc>
+    <loc>https://www.jonasg.io/posts/my-first-post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.jonasg.io/posts/</loc>
+    <loc>https://www.jonasg.io/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.jonasg.io/series/</loc>
+    <loc>https://www.jonasg.io/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.jonasg.io/tags/</loc>
+    <loc>https://www.jonasg.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.jonasg.io/tags/themes/</loc>
+    <loc>https://www.jonasg.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.jonasg.io/series/themes-guide/</loc>
+    <loc>https://www.jonasg.io/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>www.jonasg.io/archives/</loc>
+    <loc>https://www.jonasg.io/archives/</loc>
   </url><url>
-    <loc>www.jonasg.io/categories/</loc>
+    <loc>https://www.jonasg.io/categories/</loc>
   </url><url>
-    <loc>www.jonasg.io/search/</loc>
+    <loc>https://www.jonasg.io/search/</loc>
   </url>
 </urlset>

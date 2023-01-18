@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Jonas G.</title>
-    <link>www.jonasg.io/tags/</link>
+    <link>https://www.jonasg.io/tags/</link>
     <description>Recent content in Tags on Jonas G.</description>
     <image>
-      <url>www.jonasg.io/papermod-cover.png</url>
-      <link>www.jonasg.io/papermod-cover.png</link>
+      <url>https://www.jonasg.io/papermod-cover.png</url>
+      <link>https://www.jonasg.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us&#39;</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="www.jonasg.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.jonasg.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>www.jonasg.io/tags/css/</link>
+      <link>https://www.jonasg.io/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>www.jonasg.io/tags/css/</guid>
+      <guid>https://www.jonasg.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>www.jonasg.io/tags/html/</link>
+      <link>https://www.jonasg.io/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>www.jonasg.io/tags/html/</guid>
+      <guid>https://www.jonasg.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>www.jonasg.io/tags/markdown/</link>
+      <link>https://www.jonasg.io/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>www.jonasg.io/tags/markdown/</guid>
+      <guid>https://www.jonasg.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>www.jonasg.io/tags/themes/</link>
+      <link>https://www.jonasg.io/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>www.jonasg.io/tags/themes/</guid>
+      <guid>https://www.jonasg.io/tags/themes/</guid>
       <description></description>
     </item>
     
