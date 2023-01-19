@@ -48,17 +48,11 @@ params:
   images: ["papermod-cover.png"]
 
   homeInfoParams:
-    Title: Welcome to my blog
+    Title: Jonas on Software
     Content: >
       - I'm Jonas a software engineer located in **Belgium** 
       
-      - Currently working as an independent consultant specializing in all things
-      
-      - > - Java / Typescript / Go
-      
-      - > - event driven systems / microservices / distributed systems
-      
-      - > - Kafka / k8s
+      - Here you'll find my ideas and opinions on all kinds of Software related topics with a focus on **Java** and **Event Driven** architectures. 
 
 outputs:
   home:
